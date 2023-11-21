@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SayurTaniku</string>
+    <string name="required_harga">Rp %d</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="share_message">Hey, I have purchased %1$d vegetables in the SayurTaniku App for a total of %2$d Thousand. Do you want some too?</string>
+    <string name="total_order">Total Pesanan : Rp %d</string>
+    <string name="back">Kembali</string>
+    <string name="add_to_cart">Tambah ke Keranjang :  Rp %d </string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="dicoding_vegetables">Sayur Dicoding</string>
+    <string name="search_hero">Cari Sayuran yang kamu suka</string>
+    <string name="scroll_to_top">Scroll to top</string>
+    <string name="search_hint">search</string>
+    <string name="menu_about">Halaman Profile</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+</resources>
